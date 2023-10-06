@@ -1,0 +1,6 @@
+// Fixes auto-import issues of React components
+{
+    "exclude": [
+        "node_modules"
+    ]
+}
